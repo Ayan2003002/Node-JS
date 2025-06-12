@@ -1,0 +1,10 @@
+    REST API
+    ----------------
+    GET / users - List all users
+
+    POST user 
+
+    PATCH user
+
+    DELETE user
+
