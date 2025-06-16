@@ -1,5 +1,5 @@
     REST API
-    ----------------
+    ----------------------
     GET / users - List all users
 
     POST user 
